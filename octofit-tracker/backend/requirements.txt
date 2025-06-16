@@ -1,4 +1,4 @@
-# Requirements for OctoFit Tracker Backend
+# Requirements for OctoFit Tracker Backend 
 Django>=3.2
 djangorestframework
 pillow
